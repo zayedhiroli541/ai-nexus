@@ -1,6 +1,6 @@
 # 🧠 AI Nexus — All-in-One AI & Data Science Platform
 
-> **Built by Zayed Asif Hiroli** · Oracle Certified GenAI Professional  
+> **Built by Zayed Asif Hiroli** · Oracle Certified GenAI Professional · Oracle Certified AI Foundations Associate  
 > **Live Demo:** [AI Nexus on Streamlit Cloud](https://ai-nexus.streamlit.app) *(after deployment)*  
 > 🔗 [LinkedIn](https://www.linkedin.com/in/zayed-hiroli-5a15762a6) · 🐙 [GitHub](https://github.com/zayedhiroli541)
 
