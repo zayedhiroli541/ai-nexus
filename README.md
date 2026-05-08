@@ -156,16 +156,3 @@ Engineered a full MLOps pipeline: data ingestion → feature engineering → cro
 MIT License — free to use and build upon.
 
 ---
-
-## 🚀 What to do now
-
-1. **Push this update** to GitHub:
-   ```bash
-   git add README.md
-   git commit -m "Update README to reflect Groq integration and final features"
-   git push origin main
-   ```
-
-2. **Deploy to Streamlit Cloud** for a live demo link in your portfolio.
-
-3. **Share the link** on LinkedIn, GitHub, and in your portfolio.
