@@ -1,0 +1,40 @@
+streamlit>=1.32.0
+pandas>=2.2.0
+numpy>=1.26.0
+matplotlib>=3.8.0
+seaborn>=0.13.0
+scipy>=1.12.0
+scikit-learn>=1.4.0
+
+# ── Groq (replaces HuggingFace Hub LLM — free, fast, no errors) ──
+groq>=0.9.0
+
+# ── LangChain (minimal, stable set) ──
+langchain>=0.2.0
+langchain-core>=0.2.0
+langchain-community>=0.2.0
+langchain-text-splitters>=0.2.0
+
+# ── Embeddings (still using HF for embeddings only — this part works fine) ──
+sentence-transformers>=2.6.0
+huggingface-hub>=0.23.0
+
+# ── Vector DB & PDF ──
+faiss-cpu>=1.8.0
+pypdf>=4.1.0
+
+# ── Other ──
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+transformers>=4.39.0
+torch>=2.2.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.6.0
+beautifulsoup4>=4.12.0
+requests>=2.31.0
+python-dotenv>=1.0.0
+fastapi>=0.110.0
+uvicorn>=0.29.0
+pydantic>=2.6.0
